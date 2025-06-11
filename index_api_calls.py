@@ -1,7 +1,7 @@
 import json
 
 import requests
-print("hello ashish123")
+print("hello ashish12")
 
 data = {
     "data" : "Dummy data for testing python script",
