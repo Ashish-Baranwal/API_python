@@ -7,7 +7,7 @@ data = {
     "data" : "Dummy data for testing python script",
 }
 
-json_data = json.dumps(data)
+json_data = json.dumps(data) 
 
 # URL for external POST request
 url = 'https://431ba827-8835-466e-90db-ed648638ed90.mock.pstmn.io/InvokeBSL'
